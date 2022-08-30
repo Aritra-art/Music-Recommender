@@ -4,6 +4,9 @@ import Gerua from "./music-store/Gerua - Shahrukh Khan.mp3";
 import jeenajeena from "./music-store/Jeena Jeena.mp3";
 import mein from "./music-store/mein.mp3";
 import tere from "./music-store/tere.mp3";
+import yaroon from "./music-store/Yaaron - Pal 128 Kbps.mp3";
+import dil from "./music-store/Dil Kyun Yeh Mera (Kites) - K.K - 320Kbps.mp3";
+import kya from "./music-store/01. Kiya Mujhe Pyaar Hai.mp3";
 
 const Data = {
   "Arijit Singh": [
@@ -44,14 +47,17 @@ const Data = {
     {
       name: "Dil Kyun Yeh Mera (Kites)",
       rating: "4.2/5",
+      src: dil,
     },
     {
       name: "Yaaron (Pal)",
       rating: "4.1/5",
+      src: yaroon,
     },
     {
       name: "Kya Mujhe Pyaar Hai (Woh Lamhe)",
       rating: "4.7/5",
+      src: kya,
     },
   ],
 };
