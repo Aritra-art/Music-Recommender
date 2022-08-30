@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/src/music-store
+/music-store
 /.pnp
 .pnp.js
 
