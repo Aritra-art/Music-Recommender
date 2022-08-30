@@ -1,5 +1,5 @@
 import Humdard from "./music-store/05 Hamdard - Ek Villain ( PagalWorld.com ).mp3";
-import Zaalima from "./music-store/zaalima-jal-128-kbps-sound.mp3";
+import Zaalima from "./music-store/zalima.mp3";
 import Gerua from "./music-store/Gerua - Shahrukh Khan.mp3";
 import jeenajeena from "./music-store/Jeena Jeena.mp3";
 import mein from "./music-store/mein.mp3";
