@@ -8,7 +8,7 @@ const Header = () => {
       }}
     >
       <h1 style={{ textAlign: "center", color: "#be185d" }}>
-        Music Recommendator
+        Music Recommender
       </h1>
       <p style={{ textAlign: "center", marginTop: "0px", fontSize: "1.2rem" }}>
         Suno Gaane Dil Se 💖
